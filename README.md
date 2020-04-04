@@ -9,33 +9,33 @@ This is the initial approach to create a Bengali nlpprogress tracker for sota li
 - Common sense
 - Constituency parsing
 - Coreference resolution
-- Dependency parsing
-- Dialogue
+- [Dependency parsing](tasks/dependency_parsing.md)
+- [Dialogue](tasks/dialogue.md)
 - Domain adaptation
 - Entity linking
 - Grammatical error correction
 - Information extraction
 - Intent Detection and Slot Filling
-- Language modeling
+- [Language modeling](tasks/language_modeling.md)
 - Lexical normalization
-- Machine translation
+- [Machine translation](tasks/machine_translation.md)
 - Missing elements
 - Multi-task learning
 - Multi-modal
-- Named entity recognition
+- [Named entity recognition](tasks/name_entity_recognition.md)
 - Natural language inference
-- Part-of-speech tagging
-- Question answering
+- [Part-of-speech tagging](tasks/part_of_speech_tagging.md)
+- [Question answering](tasks/question_answering.md)
 - Relation prediction
 - Relationship extraction
-- Semantic textual similarity
+- [Semantic textual similarity](tasks/semantic_textual_similarity.md)
 - Semantic parsing
 - Semantic role labeling
-- Sentiment analysis
+- [Sentiment analysis](tasks/sentiment_analysis.md)
 - Shallow syntax
 - Simplification
 - Stance detection
-- Summarization
+- [Summarization](tasks/summarization.md)
 - Taxonomy learning
 - Temporal processing
 - Text classification
