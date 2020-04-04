@@ -6,3 +6,4 @@ parts of speech are noun, verb, adjective, adverb, pronoun, preposition, conjunc
 
 | Model           | Accuracy  |  Paper / Source | Code | Datasets|
 | ------------- | :-----:| --- | --- | --- |
+| Global Linear Model(Sankar et. al) | 93.12 | [Bengali parts-of-speech tagging using Global Linear Model](https://ieeexplore.ieee.org/abstract/document/6726132) | -- | -- | 
