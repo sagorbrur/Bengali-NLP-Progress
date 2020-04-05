@@ -4,17 +4,8 @@ Repository  to track the state of the art research progress in Bengali natural l
 This is the initial approach to create a Bengali nlpprogress tracker for sota like [nlpprogress](https://github.com/sebastianruder/NLP-progress)
 
 ## Table of Contents
-- [Dependency parsing](tasks/dependency_parsing.md)
-- [Dialogue](tasks/dialogue.md)
-- [Language modeling](tasks/language_modeling.md)
-- [Machine translation](tasks/machine_translation.md)
-- [Named entity recognition](tasks/name_entity_recognition.md)
-- Natural language inference
 - [Part-of-speech tagging](tasks/part_of_speech_tagging.md)
-- [Question answering](tasks/question_answering.md)
-- [Semantic textual similarity](tasks/semantic_textual_similarity.md)
-- [Sentiment analysis](tasks/sentiment_analysis.md)
-- [Summarization](tasks/summarization.md)
+
 
 ## Contributing
 #### Guidelines
