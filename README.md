@@ -1,5 +1,5 @@
 # Tracking Research Progress in Bengali NLP
-Repository  to track the state of the art research progress in Bengali natural language processing for most common task.
+Repository  to track state of the art research progress in Bengali natural language processing for most common task.
 
 This is the initial approach to create a Bengali nlpprogress tracker for sota like [nlpprogress](https://github.com/sebastianruder/NLP-progress)
 
