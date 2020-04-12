@@ -8,7 +8,8 @@ Example:
 | --- | ---| --- | --- |
 | B-PER | I-PER | O | B-LOC |
 
+## Dataset Name
 
 | Model           | Accuracy  |  Paper / Source | Code | Datasets|
 | ------------- | :-----:| --- | --- | --- |
-| SVM (Asif et al. 2008) | 91.8 | [Bengali Named Entity Recognition using Support Vector Machine](https://www.aclweb.org/anthology/I08-5008.pdf) | --- | --- |
+
