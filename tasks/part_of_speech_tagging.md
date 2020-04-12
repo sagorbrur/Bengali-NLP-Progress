@@ -8,7 +8,7 @@ parts of speech are noun, verb, adjective, adverb, pronoun, preposition, conjunc
 ## Linguistic Data Consortium: Indian Bengali
 Indian Language Part-of-Speech Tagset: Bengali, Linguistic Data Consortium (LDC) catalog number LDC2010T16 and isbn 1-58563-561-8, is a corpus developed by Microsoft Research (MSR) India to support the task of Part-of-Speech Tagging (POS) and other data-driven linguistic research on Indian Languages in general.
 
-| Model           | Accuracy  |  Paper / Source | Code | Datasets|
-| ------------- | :-----:| --- | --- | --- |
-| Deep Learning(Fasihul et al. 2016) | 93.33 | [Deep learning based parts of speech tagger for Bengali](https://ieeexplore.ieee.org/abstract/document/7760098) | --- | [Linguistic Data Consortium (LDC) catalog number LDC2010T16 and ISBN 1-58563-561-8 corpus](https://catalog.ldc.upenn.edu/LDC2010T16)
+| Model           | Accuracy  |  Paper / Source | Code |
+| ------------- | :-----:| --- | --- |
+| Deep Learning(Fasihul et al. 2016) | 93.33 | [Deep learning based parts of speech tagger for Bengali](https://ieeexplore.ieee.org/abstract/document/7760098) | --- |
 
